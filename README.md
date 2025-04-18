@@ -1,5 +1,5 @@
-1.Gone through Docker training, and Docker docs for some references
+1.Completed Docker training and referred to Docker documentation for additional understanding.
 
-2.Learned Docker Images and Containers
+2.Gained hands-on experience with Docker images and containers.
 
-3.Built images using docker build command
+3.Created custom Docker images using the docker build command.
